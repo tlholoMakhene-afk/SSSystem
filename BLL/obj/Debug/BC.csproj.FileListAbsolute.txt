@@ -1,0 +1,7 @@
+C:\Users\Luthando Proctor\Desktop\SHSystem\BC\obj\Debug\BC.csprojResolveAssemblyReference.cache
+C:\Users\Luthando Proctor\Desktop\SHSystem\BC\bin\Debug\BC.dll
+C:\Users\Luthando Proctor\Desktop\SHSystem\BC\bin\Debug\BC.pdb
+C:\Users\Luthando Proctor\Desktop\SHSystem\BC\obj\Debug\BC.dll
+C:\Users\Luthando Proctor\Desktop\SHSystem\BC\obj\Debug\BC.pdb
+C:\Users\Luthando Proctor\Desktop\SHSystem\BC\bin\Debug\DAL.dll
+C:\Users\Luthando Proctor\Desktop\SHSystem\BC\bin\Debug\DAL.pdb

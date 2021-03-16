@@ -1,0 +1,66 @@
+C:\Users\Luthando Proctor\Desktop\SHSystem\BC\bin\Debug\BC.dll
+C:\Users\Luthando Proctor\Desktop\SHSystem\BC\bin\Debug\BC.pdb
+C:\Users\Luthando Proctor\Desktop\SHSystem\BC\bin\Debug\DAL.dll
+C:\Users\Luthando Proctor\Desktop\SHSystem\BC\bin\Debug\DAL.pdb
+C:\Users\Luthando Proctor\Desktop\SHSystem\BC\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Luthando Proctor\Desktop\SHSystem\BC\obj\Debug\BC.dll
+C:\Users\Luthando Proctor\Desktop\SHSystem\BC\obj\Debug\BC.pdb
+C:\Users\Luthando Proctor\Desktop\SHSystem\BC\obj\Debug\BLL.frmProductManagement.resources
+C:\Users\Luthando Proctor\Desktop\SHSystem\BC\obj\Debug\BLL.csproj.GenerateResource.Cache
+C:\Users\Luthando Proctor\Documents\2017\SEN 321\SEN\New folder\SHSystem\BC\bin\Debug\BC.dll
+C:\Users\Luthando Proctor\Documents\2017\SEN 321\SEN\New folder\SHSystem\BC\bin\Debug\BC.pdb
+C:\Users\Luthando Proctor\Documents\2017\SEN 321\SEN\New folder\SHSystem\BC\bin\Debug\DAL.dll
+C:\Users\Luthando Proctor\Documents\2017\SEN 321\SEN\New folder\SHSystem\BC\bin\Debug\DAL.pdb
+C:\Users\Luthando Proctor\Documents\2017\SEN 321\SEN\New folder\SHSystem\BC\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Luthando Proctor\Documents\2017\SEN 321\SEN\New folder\SHSystem\BC\obj\Debug\BLL.frmProductManagement.resources
+C:\Users\Luthando Proctor\Documents\2017\SEN 321\SEN\New folder\SHSystem\BC\obj\Debug\BLL.csproj.GenerateResource.Cache
+C:\Users\Luthando Proctor\Documents\2017\SEN 321\SEN\New folder\SHSystem\BC\obj\Debug\BC.dll
+C:\Users\Luthando Proctor\Documents\2017\SEN 321\SEN\New folder\SHSystem\BC\obj\Debug\BC.pdb
+C:\Users\Karabo Machubeni\Desktop\SHSystem\BC\bin\Debug\BC.dll
+C:\Users\Karabo Machubeni\Desktop\SHSystem\BC\bin\Debug\BC.pdb
+C:\Users\Karabo Machubeni\Desktop\SHSystem\BC\bin\Debug\DAL.dll
+C:\Users\Karabo Machubeni\Desktop\SHSystem\BC\bin\Debug\DAL.pdb
+C:\Users\Karabo Machubeni\Desktop\SHSystem\BC\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Karabo Machubeni\Desktop\SHSystem\BC\obj\Debug\BC.dll
+C:\Users\Karabo Machubeni\Desktop\SHSystem\BC\obj\Debug\BC.pdb
+C:\Users\Karabo Machubeni\Desktop\SHSystem\BC\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\Karabo Machubeni\Desktop\SHSystem\BC\obj\Debug\BLL.csproj.GenerateResource.Cache
+C:\Users\Karabo Machubeni\Desktop\Karabo_Machubeni_FinalProject\SHSystem\BC\bin\Debug\BC.dll
+C:\Users\Karabo Machubeni\Desktop\Karabo_Machubeni_FinalProject\SHSystem\BC\bin\Debug\BC.pdb
+C:\Users\Karabo Machubeni\Desktop\Karabo_Machubeni_FinalProject\SHSystem\BC\bin\Debug\DAL.dll
+C:\Users\Karabo Machubeni\Desktop\Karabo_Machubeni_FinalProject\SHSystem\BC\bin\Debug\DAL.pdb
+C:\Users\Karabo Machubeni\Desktop\Karabo_Machubeni_FinalProject\SHSystem\BC\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Karabo Machubeni\Desktop\Karabo_Machubeni_FinalProject\SHSystem\BC\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\Karabo Machubeni\Desktop\Karabo_Machubeni_FinalProject\SHSystem\BC\obj\Debug\BLL.csproj.GenerateResource.Cache
+C:\Users\Karabo Machubeni\Desktop\Karabo_Machubeni_FinalProject\SHSystem\BC\obj\Debug\BC.dll
+C:\Users\Karabo Machubeni\Desktop\Karabo_Machubeni_FinalProject\SHSystem\BC\obj\Debug\BC.pdb
+C:\Users\Karabo Machubeni\Documents\B COMP BELGIUM CAMPUS\3RD YEAR\SOFTWARE ENGINEERING 321\Karabo_Machubeni_FinalProject\SHSystem\BC\bin\Debug\BC.dll
+C:\Users\Karabo Machubeni\Documents\B COMP BELGIUM CAMPUS\3RD YEAR\SOFTWARE ENGINEERING 321\Karabo_Machubeni_FinalProject\SHSystem\BC\bin\Debug\BC.pdb
+C:\Users\Karabo Machubeni\Documents\B COMP BELGIUM CAMPUS\3RD YEAR\SOFTWARE ENGINEERING 321\Karabo_Machubeni_FinalProject\SHSystem\BC\bin\Debug\DAL.dll
+C:\Users\Karabo Machubeni\Documents\B COMP BELGIUM CAMPUS\3RD YEAR\SOFTWARE ENGINEERING 321\Karabo_Machubeni_FinalProject\SHSystem\BC\bin\Debug\DAL.pdb
+C:\Users\Karabo Machubeni\Documents\B COMP BELGIUM CAMPUS\3RD YEAR\SOFTWARE ENGINEERING 321\Karabo_Machubeni_FinalProject\SHSystem\BC\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Karabo Machubeni\Documents\B COMP BELGIUM CAMPUS\3RD YEAR\SOFTWARE ENGINEERING 321\Karabo_Machubeni_FinalProject\SHSystem\BC\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\Karabo Machubeni\Documents\B COMP BELGIUM CAMPUS\3RD YEAR\SOFTWARE ENGINEERING 321\Karabo_Machubeni_FinalProject\SHSystem\BC\obj\Debug\BLL.csproj.GenerateResource.Cache
+C:\Users\Karabo Machubeni\Documents\B COMP BELGIUM CAMPUS\3RD YEAR\SOFTWARE ENGINEERING 321\Karabo_Machubeni_FinalProject\SHSystem\BC\obj\Debug\BC.dll
+C:\Users\Karabo Machubeni\Documents\B COMP BELGIUM CAMPUS\3RD YEAR\SOFTWARE ENGINEERING 321\Karabo_Machubeni_FinalProject\SHSystem\BC\obj\Debug\BC.pdb
+D:\Work\Third Year Subjects\Other Work\SOFTWARE ENGINEERING 321\Karabo_Machubeni_FinalProject\SHSystem\BC\bin\Debug\BC.dll
+D:\Work\Third Year Subjects\Other Work\SOFTWARE ENGINEERING 321\Karabo_Machubeni_FinalProject\SHSystem\BC\bin\Debug\BC.pdb
+D:\Work\Third Year Subjects\Other Work\SOFTWARE ENGINEERING 321\Karabo_Machubeni_FinalProject\SHSystem\BC\bin\Debug\DAL.dll
+D:\Work\Third Year Subjects\Other Work\SOFTWARE ENGINEERING 321\Karabo_Machubeni_FinalProject\SHSystem\BC\bin\Debug\DAL.pdb
+D:\Work\Third Year Subjects\Other Work\SOFTWARE ENGINEERING 321\Karabo_Machubeni_FinalProject\SHSystem\BC\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Work\Third Year Subjects\Other Work\SOFTWARE ENGINEERING 321\Karabo_Machubeni_FinalProject\SHSystem\BC\obj\Debug\BLL.Properties.Resources.resources
+D:\Work\Third Year Subjects\Other Work\SOFTWARE ENGINEERING 321\Karabo_Machubeni_FinalProject\SHSystem\BC\obj\Debug\BLL.csproj.GenerateResource.Cache
+D:\Work\Third Year Subjects\Other Work\SOFTWARE ENGINEERING 321\Karabo_Machubeni_FinalProject\SHSystem\BC\obj\Debug\BC.dll
+D:\Work\Third Year Subjects\Other Work\SOFTWARE ENGINEERING 321\Karabo_Machubeni_FinalProject\SHSystem\BC\obj\Debug\BC.pdb
+D:\Work\Third Year Subjects\The Year of Victory\Software Engineering 381\SSSystem\BLL\bin\Debug\BC.dll
+D:\Work\Third Year Subjects\The Year of Victory\Software Engineering 381\SSSystem\BLL\bin\Debug\BC.pdb
+D:\Work\Third Year Subjects\The Year of Victory\Software Engineering 381\SSSystem\BLL\bin\Debug\DAL.dll
+D:\Work\Third Year Subjects\The Year of Victory\Software Engineering 381\SSSystem\BLL\bin\Debug\nunit.framework.dll
+D:\Work\Third Year Subjects\The Year of Victory\Software Engineering 381\SSSystem\BLL\bin\Debug\DAL.pdb
+D:\Work\Third Year Subjects\The Year of Victory\Software Engineering 381\SSSystem\BLL\bin\Debug\nunit.framework.pdb
+D:\Work\Third Year Subjects\The Year of Victory\Software Engineering 381\SSSystem\BLL\bin\Debug\nunit.framework.xml
+D:\Work\Third Year Subjects\The Year of Victory\Software Engineering 381\SSSystem\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Work\Third Year Subjects\The Year of Victory\Software Engineering 381\SSSystem\BLL\obj\Debug\BLL.Properties.Resources.resources
+D:\Work\Third Year Subjects\The Year of Victory\Software Engineering 381\SSSystem\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+D:\Work\Third Year Subjects\The Year of Victory\Software Engineering 381\SSSystem\BLL\obj\Debug\BC.dll
+D:\Work\Third Year Subjects\The Year of Victory\Software Engineering 381\SSSystem\BLL\obj\Debug\BC.pdb
